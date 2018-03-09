@@ -19,6 +19,13 @@
     "HISTORY": "History",
     "DOCUMENTS": "Documents"
   },
+  "CONTACT":{
+    "TITLE": "Contacts",
+    "PRESIDENT": "President",
+    "PHONE": "Phone",
+    "EMAIL": "E-mail",
+    "VICE_PRESIDENT": "Vice-president"
+  },
   "EVENTS":{
     "MOSCOW_TITLE":"Moscow Events list",
     "INTERNATIONAL_TITLE":"International Events list"

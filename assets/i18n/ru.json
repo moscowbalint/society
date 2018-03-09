@@ -19,6 +19,13 @@
     "HISTORY": "История",
     "DOCUMENTS": "Документы"
   },
+  "CONTACT":{
+    "TITLE": "Контакты",
+    "PRESIDENT": "Президент",
+    "PHONE": "Тел.",
+    "EMAIL": "Почта",
+    "VICE_PRESIDENT": "Вице-президент"
+  },
   "EVENTS":{
     "MOSCOW_TITLE":"Мероприятия в Москве",
     "INTERNATIONAL_TITLE":"Международные мероприятия"
