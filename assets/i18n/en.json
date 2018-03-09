@@ -1,0 +1,92 @@
+{
+  "TEST": {
+    "TEST": "TEST"
+  },
+  "NAVBAR":{
+    "HOME": "Home",
+    "EVENTS": "Events",
+    "MOSCOW": "Moscow",
+    "INTERNATIONAL": "International",
+    "TRAININGS": "Trainings",
+    "SUPERVISOR": "Supervisor",
+    "BG_LEADS": "BG Leads",
+    "BALINT_GROUPS": "Balint Groups",
+    "MEMBERS": "Members",
+    "LITERATURE": "Literature",
+    "CERTIFICATES": "certification",
+    "CONTACT": "Contact",
+    "ABOUT": "About",
+    "HISTORY": "History",
+    "DOCUMENTS": "Documents"
+  },
+  "EVENTS":{
+    "MOSCOW_TITLE":"Moscow Events list",
+    "INTERNATIONAL_TITLE":"International Events list"
+  },
+  "GALLERY_LINKS": {
+    "1": "Congress in Ufa and seminar in Novosibirsk, 2017",
+    "2": "International Balint Congress in Metz, France, 2015",
+    "3": "International Balint Congress in Oxford, September 6-10, 2017",
+    "4": "International Balintic Conference for Executives BG in Warsaw, September, 2016",
+    "5": "Scientific Student Scientific Circle, 2017",
+    "6": "Seminar BG for nurses in the PKB number 3. Gilyarovsky",
+    "7": "Seminar of Dr. Bergmann in the First Moscow State Medical University. Sechenov, Moscow, October 2017"
+  },
+  "MEMBERS":{
+    "TITLE":"Members",
+    "NAME":"Name",
+    "LASTNAME":"Lastname",
+    "CITY":"City",
+    "HONORARY_MEMBERS":"Honorary members"
+  },
+  "TRAININGS":{
+    "SUPERVISOR_TITLE": "Supervisor trainings",
+    "LEADS_TITLE": "Balint group leads trainings",
+    "GROUPS_TITLE": "Balint Groups trainings",
+    "SHOW_MORE":"Show more...",
+    "SHOW_LESS":"Show less..."
+  },
+  "HOME": {
+    "GENERAL": "General",
+    "ADDRESS": "ADDRESS",
+    "ZIP": "ZIP"
+  },
+  "GALLERIA": {
+    "TITLE": "WELCOME"
+  },
+  "ABOUT": {
+    "TITLE": "WELCOME"
+  },
+  "CONTACTS": {
+    "TITLE": "WELCOME"
+  },
+  "FOOTER": {
+    "TITLE": "Site Map",
+    "ABOUT": {
+      "TITLE": "ABOUT",
+      "BALINT_HISTORY": "Balint History",
+      "PMB": "Psychosomatic Medicine and Balintwork"
+    },
+    "ASCONA_PRIZE": {
+      "TITLE": "ASCONA PRIZE"
+    },
+    "SOCIETIES_MEMBERS": {
+      "TITLE": "SOCIETIES/MEMBERS",
+      "LEADERSHIP": "LEADERSHIP",
+      "IBF": "IBF Application for Membership",
+      "MEMBER": "Member Societies and Countries"
+    },
+    "LITERATURE": {
+      "TITLE": "LITERATURE",
+      "PUBLICATIONS": "Balint Publications",
+      "PROPOSALS": "Invitation for Translation Proposals"
+    },
+    "EVENTS": {
+      "TITLE": "EVENTS"
+    },
+    "CONTACT": {
+      "TITLE": "CONTACT"
+    },
+    "COPYRIGHTS": "Copyright 2018 International Balint Federation | All Rights Reserved."
+  }
+}
