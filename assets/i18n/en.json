@@ -54,7 +54,22 @@
   },
   "EVENTS":{
     "MOSCOW_TITLE":"Russian Events list",
-    "INTERNATIONAL_TITLE":"International Events list"
+    "INTERNATIONAL_TITLE":"International Events list",
+    "MORE_DETAILS": "More details",
+    "EVENT_INFO": {
+      "COMMITTEE": "Organising committee",
+      "FIND_OUT": "Find out more in official website",
+      "DETAILS": "Details",
+      "START": "Start",
+      "END": "End",
+      "AT": "at",
+      "COST": "Cost",
+      "ADDRESS": "Address",
+      "ORGANIZER": "Organizers",
+      "EMAIL": "Email",
+      "PHONE": "Phone",
+      "WEBSITE": "Website"
+    }
   },
   "GALLERY_LINKS": {
     "1": "Congress in Ufa and seminar in Novosibirsk, 2017",
@@ -63,7 +78,13 @@
     "4": "International Balintic Conference for Executives BG in Warsaw, September, 2016",
     "5": "Scientific Student Scientific Circle, 2017",
     "6": "Seminar BG for nurses in the PKB number 3. Gilyarovsky",
-    "7": "Seminar of Dr. Bergmann in the First Moscow State Medical University. Sechenov, Moscow, October 2017"
+    "7": "Seminar of Dr. Bergmann in the First Moscow State Medical University. Sechenov, Moscow, October 2017",
+    "8": "Training seminar for the leaders of BG, Novosibirsk, 2017",
+    "9": "International Conference, Shymkent, October 2017, presentation of the report and presentation of the Balint Group",
+    "10":"",
+    "11":"",
+    "12":"",
+    "13":""
   },
   "WHO_WAS_BALINT":{
     "TITLE": "Who was Michael Balint"
@@ -105,6 +126,25 @@
       "PARAGRAPH6":"<strong class='caption'>Балинтовская группа помогает ответить на вопросы:</strong><br><p>- почему во взаимоотношениях с пациентами врачи многое игнорируют?<p>- почему часто они не в состоянии разобраться в своих чувствах, возникающих в ходе этих взаимоотношений?<p>- как проявляются у врачей сопротивление, защита и перенос, возникающие под влиянием чувств и переживаний, касающихся пациентов?<p>и как это влияет:<p>- на коммуникацию с пациентами;<p>- на эффективность терапевтического контакта;<p>- на профессиональное самочувствие врача.",
       "PARAGRAPH7":"<strong class='caption'>В результате работы в БГ наступает:</strong><br><p>- улучшение восприятия и понимания коммуникации с пациентом,<p>- осознание терапевтической значимости межличностных отношений и их границ,<p>- расширение репертуара коммуникативных стереотипов,<p>- осознание собственных «слепых пятен», психологических защит. Переносов и контрпереносов, защита от «эмоционального выгорания»,<p>- личностный рост."
     },
+    "SUPERVISOR_DESC": {
+      "TITLE":"Краткий обзор.",
+      "PARAGRAPH1":"<strong> Описание статуса </strong><p> Руководитель-супервизор балинтовской группы, сертифицированный ППЛ имеет право проводить и документально подтверждать часы работы участников в балинтовской группе с представлением на соответствующую сертификацию следующие категории балинтовских групп:",
+      "PARAGRAPH1_1":"Основы балинтовской групповой работы – 36-40 часов",
+      "PARAGRAPH1_2":"Балинтовский групповой тренинг самопознания и профессионального роста. Базовый курс – 72 часа.",
+      "PARAGRAPH1_3":"Тренинг руководителей балинтовских групп. Теория и практика групповой балинтовской работы. Годичный курс, 6 сдвоенный семинаров один раз в два месяца, 96 часов.",
+      "PARAGRAPH1_4":"Супервизировать тренинг руководителей балинтовских групп, участвовать в проведении специальной программы подготовки супервизоров балинтовской работы.",
+      "PARAGRAPH2":"<strong>Минимальные требование к кандидату для получения статуса “Руководитель-супервизор” балинтовских групп ППЛ: </strong><p>",
+      "PARAGRAPH2_1":"8 лет стажа профессиональной деятельности (психотерапевт, психолог-консультант, врач, социальный работник, педагог);  250 часов личной терапии; прохождение полного курса обучения руководителя балинтовской группы; психологи консультанты и психотерапевты дополнительно должны иметь 3000 часов практики и 250 часов индивидуальной и групповой супервизии;",
+      "PARAGRAPH2_2":"Стаж руководителя балинтовской группы международной практики, сертифицированного ППЛ не менее трех лет.",
+      "PARAGRAPH2_3":"Опыт проведения балинтовских групп, подтвержденный документально не менее 9 месяцев в год с частотой не менее один раз в месяц.",
+      "PARAGRAPH2_4":"5 супервизий в год личной практики балинтовской работы.",
+      "PARAGRAPH2_5":"3 супервизорских семинара международной практики в российско-немецких смешанных группах в Германском балинтовском обществе и ППЛ",
+      "PARAGRAPH3":"<strong>Порядок присвоения статуса Руководителя-супервизора балинтовских групп сертифицированного ППЛ:</strong><p>",
+      "PARAGRAPH3_1":"Статус присваивается Комитетом по личной терапии и балинтовскому движению ППЛ.",
+      "PARAGRAPH3_2":"Документы, предоставляемые специалистом, претендующим на получение статуса Руководителя-супервизора балинтовских групп ППЛ: Заявление специалиста, претендующего на получение статуса, с указанием выполненных нормативов профессиональной подготовки.",
+      "PARAGRAPH3_3":"При положительном решении Комитета о присвоении статуса, специалисту выдается Свидетельство “Руководителя-супервизора балинтовской группы ППЛ” утвержденного образца <p>Данные специалиста вносятся в реестр Руководителей балинтовскох групп ППЛ и публикуются на официальном сайте ППЛ, пребывание в реестре оплачивается специалистом.",
+      "PARAGRAPH3_4":"Статус присваивается на срок до 5 лет, после чего статус может быть продлен по заявлению специалиста и соответствующего решения Комитета по личной терапии и балинтовскому движению ППЛ."
+    },
     "SUPERVISOR_TITLE": "Supervisor trainings",
     "LEADS_TITLE": "Balint group leads trainings",
     "GROUPS_TITLE": "Balint Groups trainings",
@@ -125,7 +165,68 @@
     "TITLE": "WELCOME",
     "PARTNERS": {
       "OPPL": "Russian league of professional psychotherapists"
+    },
+    "OUR_HISTORY": {
+      "TITLE": "О НАС",
+      "TEXT": {
+        "1": "Балинтовское движение  уже давно стало неотъемлемой частью профессиональной культуры среди специалистов помогающих профессий  в  развитых странах, а их открытость Балинтовской работе стала показателем  уровня их профессионализма. Позитивное влияние Балинтовской работы на качество профессиональных отношений  в сфере помогающих профессий не вызывает сомнений в научной среде.",
+        "2": "Теперь Балинтовское движение разворачивается и в России. Сознавая свою социальную и профессиональную ответственность, члены Балинтовского Общества в г. Москве считают важным и необходимым основывать свою работу на принципах научности, открытости и легитимности.",
+        "3": "Балинтовское Общество в г. Москве было основано 3 августа 2017 года (запись о некоммерческой организации внесена в Единый государственный реестр юридических лиц 03 августа 2017 года за основным государственным регистрационным номером: 117770012379) как общественная некоммерческая организация, объединяющая врачей, психологов, медицинских и социальных работников, действующая на основании Устава под управлением Совета организации.",
+        "4": "Балинтовское Общество в г. Москве ориентируется на высокие профессиональные и этические стандарты Балинтовской работы, описанные  в Уставе и Положении о руководителе Балинтовской группы Международной Балинтовской Федерации (IBF).",
+        "5": "Цели нашего общества — профессиональная подготовка ведущих Балинтовских групп, содействие распространению соответствующих знаний и идей в широком профессиональном сообществе, а также развитие широкой практики Балинтовских групп, соответствующих требованиям Международной Балинтовской Федерации. (IBF)."
+      }
+    },
+    "DOCUMENTS": {
+      "DOCUMENT_1": {
+        "URL": "https://drive.google.com/open?id=1vrzpquYdPDgBFBaPhZ1Y5vQi64RBEP4q",
+        "TITLE": "Possibilities and Prospects of Balint Groups’ Effectiveness Study",
+        "TEXT" : "The use of Balit groups as one of the tools for group supervision as well as in the undergraduate and postgraduate education of the specialists in helping professions increases the requirements for standardization of the work conducted, also posing questions concerning the possibilities of the assessment of its effectiveness. The article focuses on the prospects of the use of the adapted..."
+      },
+      "DOCUMENT_2": {
+        "URL": "https://drive.google.com/open?id=1-43BKhQPZd48ibDlTn1EYEzWChwSO260",
+        "TITLE": "Psychoprophylactic of Professional Deformation and Psychosomatic Disorders among Specialists in Helping Professions",
+        "TEXT" : "The article focuses on promotion of psychosomatic health in specialists of helping professions to improve the effectiveness of their psychosomatic activity. The goal of the research is the study of peculiarities of psychosomatic health and anxiety levels in educators and psychologists as well as prophylactic of professional deformations. In revealing the essence and structure of professional deformations..."
+      },
+      "DOCUMENT_3": {
+        "URL": "https://drive.google.com/open?id=1RhWhxy0oR82sKe3pW_cD1lGmeyVfiLdO",
+        "TITLE": "Supervising Balint Groups Under The Special View Of Psychosomatic Medicine",
+        "TEXT" : "The report will focus on reflecting and working out the special psychosomatic of a somatic symptom appearing in the psychosomatic medicine. The possibilities and tasks of supervising Balint groups that have taken place in a psychosomatic ward will be shown up within an example of such a Balint group. The paper centers on the special care of the psychodynamic point of view which develops and shows up in such a group in which a psychosomatic patient..."
+      },
+      "DOCUMENT_4": {
+        "URL": "https://drive.google.com/open?id=1kf3Vm6bpfuLEcsecf0Asbd4xEWeaVWa-",
+        "TITLE": "Bowlby, Balint and the Doctor-Patient Relationship: towards a theory of human relationships in medical practice.",
+        "TEXT" : "Despite continuing technological advance, there is a widespread view that something is missing in current medical culture. Crises of care are often attributed to poor communication without deeper enquiry into the complexities of doctor-patient interaction. I suggest that work originating from John Bowlby (Attachment Theory) and from Michael Balint (the doctor-patient relationship) can begin to supply..."
+      },
+      "DOCUMENT_5": {
+        "URL": "https://drive.google.com/open?id=1rZp7j3gi8lK3WN_2LGYpOVucCFOep4Ye",
+        "TITLE": "Balint Groups and Supervision Groups: Similarities and Differences",
+        "TEXT" : "This article deals with the study of Balint and supervision groups, detailing their goals, tasks and main characteristics. Comparative analysis of Balint groups and supervision groups is conducted, demonstrating their similarities and differences. The article describes the author’s experience of participation in a Balint group session..."
+      },
+      "DOCUMENT_6": {
+        "URL": "https://drive.google.com/open?id=1v4uiuvVa5Mqo3snRwcRN5j0_Ehm5e6kY",
+        "TITLE": "How beneficial are Balint groups?",
+        "TEXT" : "Participation in Balint groups is obligatory for some medical trainings as specialist. However, there is a substantial lack in empirical evidence of Balint group effects. The study reports about the development and validation of a questionnaire aiming at the identification of processes in Balint group work..."
+      },
+      "DOCUMENT_7": {
+        "URL": "https://drive.google.com/open?id=1IIZLlUIAntFWTA3cgUJPJftQvlS_rBdC",
+        "TITLE": "Balint Work and Sculptures Heide Otten and Kurt Fritzsche",
+        "TEXT" : "Sculpting is a tool for making an external picture or sculpt of an internal process such as a feeling, experience, or perception. We use sculpture for a better understanding of the meaning of illness in a family system, in the doctor-patient relationship or among hospital staff. In our international Balint work, sculptures are used in the Balint groups to enable access to the complex interactions among the patient, the different doctors, the family members and the illness..."
+      },
+      "DOCUMENT_8": {
+        "URL": "https://drive.google.com/open?id=1GxZDVOY9rhQRAAQY0G1trWS5OhLAhLBm",
+        "TITLE": "Psychosomatic Medicine and Balint Supervision of Doctors and Clinical Psychologists – Integration of Principles and Practical Interaction",
+        "TEXT" : "This article describes integrative relationships between the basic approaches of psychosomatic medicine and Balint supervision of physicians and psychologists. The article analyses the history of their creation and common principles related to complex issues of doctor-patient interaction and the therapy of psychosomatic disorders improved by Balint supervision..."
+      },
+      "DOCUMENT_9": {
+        "URL": "https://drive.google.com/open?id=10jE8yNIBKhiIuZHHzFXUh-FSgsKhawiZ",
+        "TITLE": "Psychosomatic Medicine, the Balint Group, and General Practice",
+        "TEXT" : "Psychosomatic medicine and Balint group work share some origins in psychoanalysis and physical medicine. In most of the world psychosomatic medicine is an idea and way of thinking. In Germany, it has recently become a popular specialist practice. General practitioners, using Balint group work, remain well placed to help patients with psychosomatic problems..."
+      }
     }
+  },
+  "REESTER":{
+    "TITLE1":"Реестр руководителей-супервизоров БГ Московского Балинтовского общества",
+    "TITLE2":"Реестр руководителей БГ Московского Балинтовского общества"
   },
   "CONTACTS": {
     "TITLE": "WELCOME"
@@ -134,25 +235,19 @@
     "TITLE": "Site Map",
     "ABOUT": {
       "TITLE": "ABOUT",
-      "BALINT_HISTORY": "Balint History",
-      "PMB": "Psychosomatic Medicine and Balintwork"
-    },
-    "ASCONA_PRIZE": {
-      "TITLE": "ASCONA PRIZE"
+      "CONTACTS": "Contacts"
     },
     "SOCIETIES_MEMBERS": {
       "TITLE": "SOCIETIES/MEMBERS",
       "LEADERSHIP": "LEADERSHIP",
-      "IBF": "IBF Application for Membership",
-      "MEMBER": "Member Societies and Countries"
+      "PARTNERS": "Partners"
     },
     "LITERATURE": {
-      "TITLE": "LITERATURE",
-      "PUBLICATIONS": "Balint Publications",
-      "PROPOSALS": "Invitation for Translation Proposals"
+      "TITLE": "LITERATURE"
     },
     "EVENTS": {
-      "TITLE": "EVENTS"
+      "RUSSIAN_TITLE": "Russian events",
+      "INTERNATIONAL_TITLE": "International events"
     },
     "CONTACT": {
       "TITLE": "CONTACT"
