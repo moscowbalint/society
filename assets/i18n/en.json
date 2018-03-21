@@ -19,7 +19,7 @@
     "HISTORY": "History",
     "DOCUMENTS": "Documents",
     "PARTNERS": "Partners",
-    "REESTER": "Register"
+    "REESTER": "Register of BG managers"
   },
   "CERTIFICATES":{
     "TITLE":"Руководство по аккредитации лидеров Балинтовских групп",
@@ -58,7 +58,7 @@
     "INTERNATIONAL_TITLE":"International Events list",
     "MORE_DETAILS": "More details",
     "EVENT_INFO": {
-      "COMMITTEE": "Organising committee",
+      "COMMITTEE": "Leaders",
       "FIND_OUT": "Find out more in official website",
       "DETAILS": "Details",
       "START": "Start",
@@ -77,8 +77,8 @@
     "2": "International Balint Congress in Metz, France, 2015",
     "3": "International Balint Congress in Oxford, September 6-10, 2017",
     "4": "International Balintic Conference for Executives BG in Warsaw, September, 2016",
-    "5": "Scientific Student Scientific Circle, 2017",
-    "6": "Seminar BG for nurses in the PKB number 3. Gilyarovsky",
+    "5": "Scientific Student Circle, 2017",
+    "6": "Balint groups for nurses in the PKB N3 named. V.A. Gilyarovsky",
     "7": "Seminar of Dr. Bergmann in the First Moscow State Medical University. Sechenov, Moscow, October 2017",
     "8": "Training seminar for the leaders of BG, Novosibirsk, 2017",
     "9": "International Conference, Shymkent, October 2017, presentation of the report and presentation of the Balint Group",
@@ -93,7 +93,7 @@
     "18":"Training seminar in Novosibirsk, 2017, December",
     "19":"Seminar at the International Balint Congress in Oxford, September 2017",
     "20":"Seminar for managers of BG, September, 2016, Warsaw",
-    "21":"Seminar for supervisors BG in the framework of the International Balintov conference, Moscow, July, 2017 Executives - Dr. F. Ludwig-Eckelmann and Dr. F. Kurt (Germany)",
+    "21":"Seminar for supervisors BG in the framework of the International Balint conference, Moscow, July, 2017 Executives - Dr. F. Ludwig-Eckelmann and Dr. F. Kurt (Germany)",
     "22":"Студенческий кружок, Первый МГМУ им. Сеченова, Кафедра УСД и СР"
   },
   "WHO_WAS_BALINT":{
@@ -213,7 +213,11 @@
     "UPCOMMING_EVENTS_TITLE":"Upcomming events",
     "GALLERY_LINKS_TITLE":"Archive",
     "ADDRESS": "ADDRESS",
-    "ZIP": "ZIP"
+    "ZIP": "ZIP",
+    "LINKS":{
+      "BALINT_2016": "International Conference in Armenia 2016",
+      "BALINT_2015": "International Conference in Armenia 2015"
+    }
   },
   "GALLERIA": {
     "TITLE": "WELCOME"
@@ -230,7 +234,8 @@
         "2": "Теперь Балинтовское движение разворачивается и в России. Сознавая свою социальную и профессиональную ответственность, члены Балинтовского Общества в г. Москве считают важным и необходимым основывать свою работу на принципах научности, открытости и легитимности.",
         "3": "Балинтовское Общество в г. Москве было основано 3 августа 2017 года (запись о некоммерческой организации внесена в Единый государственный реестр юридических лиц 03 августа 2017 года за основным государственным регистрационным номером: 117770012379) как общественная некоммерческая организация, объединяющая врачей, психологов, медицинских и социальных работников, действующая на основании Устава под управлением Совета организации.",
         "4": "Балинтовское Общество в г. Москве ориентируется на высокие профессиональные и этические стандарты Балинтовской работы, описанные  в Уставе и Положении о руководителе Балинтовской группы Международной Балинтовской Федерации (IBF).",
-        "5": "Цели нашего общества — профессиональная подготовка ведущих Балинтовских групп, содействие распространению соответствующих знаний и идей в широком профессиональном сообществе, а также развитие широкой практики Балинтовских групп, соответствующих требованиям Международной Балинтовской Федерации. (IBF)."
+        "5": "Цели нашего общества — профессиональная подготовка ведущих Балинтовских групп, содействие распространению соответствующих знаний и идей в широком профессиональном сообществе, а также развитие широкой практики Балинтовских групп, соответствующих требованиям Международной Балинтовской Федерации. (IBF).",
+        "6": "Translated and published by Dr. Otten 'Professional Relationships'"
       }
     },
     "DOCUMENTS": {
@@ -252,8 +257,9 @@
     }
   },
   "REESTER":{
-    "TITLE1":"Реестр руководителей-супервизоров БГ Московского Балинтовского общества",
-    "TITLE2":"Реестр руководителей БГ Московского Балинтовского общества"
+    "TITLE": "Register of certified managers BG Balint society in Moscow",
+    "TITLE1":"Supervisors",
+    "TITLE2":"Leads"
   },
   "CONTACTS": {
     "TITLE": "WELCOME"
