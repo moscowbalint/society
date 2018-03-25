@@ -73,28 +73,28 @@
     }
   },
   "GALLERY_LINKS": {
-    "1": "Congress in Ufa and seminar in Novosibirsk, 2017",
-    "2": "International Balint Congress in Metz, France, 2015",
-    "3": "International Balint Congress in Oxford, September 6-10, 2017",
-    "4": "International Balintic Conference for Executives BG in Warsaw, September, 2016",
-    "5": "Scientific Student Circle, 2017",
-    "6": "Balint groups for nurses in the PKB N3 named. V.A. Gilyarovsky",
-    "7": "Seminar of Dr. Bergmann in the First Moscow State Medical University. Sechenov, Moscow, October 2017",
-    "8": "Training seminar for the leaders of BG, Novosibirsk, 2017",
-    "9": "International Conference, Shymkent, October 2017, presentation of the report and presentation of the Balint Group",
-    "10":"Балинтовские группы с медсестрами, 2015-2016, ПКБ 3 им. В.А. Гиляровского",
-    "11":"Выступление с докладом и презентацией на Международном форуме медсестер, май, 2017, Москва, Первый МГМУ им. Сеченова",
-    "12":"Speech at the plenary session of the International Balint Congress, Oxford, September, 2017",
-    "13":"Speech with a poster at the International Balint Congress, September, 2017",
-    "14":"Annual Balint Conference, London, February 2015",
-    "15":"Annual Balint Conference, London, February 2016",
-    "16":"Conference in Orel, May 2017",
-    "17":"International Balint Conference, Metz, France, September, 2015",
-    "18":"Training seminar in Novosibirsk, 2017, December",
-    "19":"Seminar at the International Balint Congress in Oxford, September 2017",
-    "20":"Seminar for managers of BG, September, 2016, Warsaw",
-    "21":"Seminar for supervisors BG in the framework of the International Balint conference, Moscow, July, 2017 Executives - Dr. F. Ludwig-Eckelmann and Dr. F. Kurt (Germany)",
-    "22":"Студенческий кружок, Первый МГМУ им. Сеченова, Кафедра УСД и СР"
+    "0": "Congress in Ufa and seminar in Novosibirsk, 2017",
+    "1": "International Balint Congress in Metz, France, 2015",
+    "2": "International Balint Congress in Oxford, September 6-10, 2017",
+    "3": "International Balintic Conference for Executives BG in Warsaw, September, 2016",
+    "4": "Scientific Student Circle, 2017",
+    "5": "Balint groups for nurses in the PKB N3 named. V.A. Gilyarovsky",
+    "6": "Seminar of Dr. Bergmann in the First Moscow State Medical University. Sechenov, Moscow, October 2017",
+    "7": "Training seminar for the leaders of BG, Novosibirsk, 2017",
+    "8": "International Conference, Shymkent, October 2017, presentation of the report and presentation of the Balint Group",
+    "9":"Балинтовские группы с медсестрами, 2015-2016, ПКБ 3 им. В.А. Гиляровского",
+    "10":"Выступление с докладом и презентацией на Международном форуме медсестер, май, 2017, Москва, Первый МГМУ им. Сеченова",
+    "11":"Speech at the plenary session of the International Balint Congress, Oxford, September, 2017",
+    "12":"Speech with a poster at the International Balint Congress, September, 2017",
+    "13":"Annual Balint Conference, London, February 2015",
+    "14":"Annual Balint Conference, London, February 2016",
+    "15":"Conference in Orel, May 2017",
+    "16":"International Balint Conference, Metz, France, September, 2015",
+    "17":"Training seminar in Novosibirsk, 2017, December",
+    "18":"Seminar at the International Balint Congress in Oxford, September 2017",
+    "19":"Seminar for managers of BG, September, 2016, Warsaw",
+    "20":"Seminar for supervisors BG in the framework of the International Balint conference, Moscow, July, 2017 Executives - Dr. F. Ludwig-Eckelmann and Dr. F. Kurt (Germany)",
+    "21":"Студенческий кружок, Первый МГМУ им. Сеченова, Кафедра УСД и СР"
   },
   "WHO_WAS_BALINT":{
     "TITLE": "About Michael Balint"
@@ -162,50 +162,82 @@
     "SHOW_LESS":"Show less..."
   },
   "LITERATURE": {
-    "DOCUMENT_1": {
-      "URL": "https://drive.google.com/open?id=1vrzpquYdPDgBFBaPhZ1Y5vQi64RBEP4q",
-      "TITLE": "Possibilities and Prospects of Balint Groups’ Effectiveness Study",
-      "TEXT" : "The use of Balit groups as one of the tools for group supervision as well as in the undergraduate and postgraduate education of the specialists in helping professions increases the requirements for standardization of the work conducted, also posing questions concerning the possibilities of the assessment of its effectiveness. The article focuses on the prospects of the use of the adapted..."
+    "GROUP1":{
+      "TITLE":"Materials of International Balint Conference in Moscow, 2017",
+      "DOCUMENT_1": {
+        "URL": "https://drive.google.com/open?id=1bs3c-tG_TBL3jCryqDPMqcyZInvmTyUK",
+        "TITLE": "Collection of Materials of the Third International Conference",
+        "TEXT" : "«Psychosomatic Medicine And Balint Groups - Theory and Interaction Practice»"
+      },
+      "DOCUMENT_2": {
+        "URL": "https://drive.google.com/open?id=1wJ4Fu6q4P3QtewgFeW_AkdQGLN2spOGK",
+        "TITLE": "Press Release of the Third International Conference",
+        "TEXT" : "«Psychosomatic Medicine And Balint Groups - Theory and Interaction Practice»"
+      }
     },
-    "DOCUMENT_2": {
-      "URL": "https://drive.google.com/open?id=1-43BKhQPZd48ibDlTn1EYEzWChwSO260",
-      "TITLE": "Psychoprophylactic of Professional Deformation and Psychosomatic Disorders among Specialists in Helping Professions",
-      "TEXT" : "The article focuses on promotion of psychosomatic health in specialists of helping professions to improve the effectiveness of their psychosomatic activity. The goal of the research is the study of peculiarities of psychosomatic health and anxiety levels in educators and psychologists as well as prophylactic of professional deformations. In revealing the essence and structure of professional deformations..."
+    "GROUP2":{
+      "TITLE":"Materials of International Balint Conference in Armenia, 2016",
+      "DOCUMENT_1": {
+        "URL": "https://drive.google.com/open?id=1H308BvDlr-zpFstYDn40jW5PZiePfhdm",
+        "TITLE": "Collection of Materials of the Second International Conference",
+        "TEXT" : "Preservation and Improvement of Heath and Well-being in Specialists of Helping Professions. The Role of Balint Movement."
+      }
     },
-    "DOCUMENT_3": {
-      "URL": "https://drive.google.com/open?id=1RhWhxy0oR82sKe3pW_cD1lGmeyVfiLdO",
-      "TITLE": "Supervising Balint Groups Under The Special View Of Psychosomatic Medicine",
-      "TEXT" : "The report will focus on reflecting and working out the special psychosomatic of a somatic symptom appearing in the psychosomatic medicine. The possibilities and tasks of supervising Balint groups that have taken place in a psychosomatic ward will be shown up within an example of such a Balint group. The paper centers on the special care of the psychodynamic point of view which develops and shows up in such a group in which a psychosomatic patient..."
+    "GROUP3":{
+      "TITLE": "Materials of International Balint Conference in Armenia, 2015",
+      "DOCUMENT_1": {
+        "URL": "https://drive.google.com/open?id=14QyTc1gtm87DZe6tKWAVkED8rLEf-DUn",
+        "TITLE": "Collection of Materials of the First International Conference",
+        "TEXT" : "Emotional Burnout And Balint Movement In Helping Professions"
+      }
     },
-    "DOCUMENT_4": {
-      "URL": "https://drive.google.com/open?id=1kf3Vm6bpfuLEcsecf0Asbd4xEWeaVWa-",
-      "TITLE": "Bowlby, Balint and the Doctor-Patient Relationship: towards a theory of human relationships in medical practice.",
-      "TEXT" : "Despite continuing technological advance, there is a widespread view that something is missing in current medical culture. Crises of care are often attributed to poor communication without deeper enquiry into the complexities of doctor-patient interaction. I suggest that work originating from John Bowlby (Attachment Theory) and from Michael Balint (the doctor-patient relationship) can begin to supply..."
-    },
-    "DOCUMENT_5": {
-      "URL": "https://drive.google.com/open?id=1rZp7j3gi8lK3WN_2LGYpOVucCFOep4Ye",
-      "TITLE": "Balint Groups and Supervision Groups: Similarities and Differences",
-      "TEXT" : "This article deals with the study of Balint and supervision groups, detailing their goals, tasks and main characteristics. Comparative analysis of Balint groups and supervision groups is conducted, demonstrating their similarities and differences. The article describes the author’s experience of participation in a Balint group session..."
-    },
-    "DOCUMENT_6": {
-      "URL": "https://drive.google.com/open?id=1v4uiuvVa5Mqo3snRwcRN5j0_Ehm5e6kY",
-      "TITLE": "How beneficial are Balint groups?",
-      "TEXT" : "Participation in Balint groups is obligatory for some medical trainings as specialist. However, there is a substantial lack in empirical evidence of Balint group effects. The study reports about the development and validation of a questionnaire aiming at the identification of processes in Balint group work..."
-    },
-    "DOCUMENT_7": {
-      "URL": "https://drive.google.com/open?id=1IIZLlUIAntFWTA3cgUJPJftQvlS_rBdC",
-      "TITLE": "Balint Work and Sculptures Heide Otten and Kurt Fritzsche",
-      "TEXT" : "Sculpting is a tool for making an external picture or sculpt of an internal process such as a feeling, experience, or perception. We use sculpture for a better understanding of the meaning of illness in a family system, in the doctor-patient relationship or among hospital staff. In our international Balint work, sculptures are used in the Balint groups to enable access to the complex interactions among the patient, the different doctors, the family members and the illness..."
-    },
-    "DOCUMENT_8": {
-      "URL": "https://drive.google.com/open?id=1GxZDVOY9rhQRAAQY0G1trWS5OhLAhLBm",
-      "TITLE": "Psychosomatic Medicine and Balint Supervision of Doctors and Clinical Psychologists – Integration of Principles and Practical Interaction",
-      "TEXT" : "This article describes integrative relationships between the basic approaches of psychosomatic medicine and Balint supervision of physicians and psychologists. The article analyses the history of their creation and common principles related to complex issues of doctor-patient interaction and the therapy of psychosomatic disorders improved by Balint supervision..."
-    },
-    "DOCUMENT_9": {
-      "URL": "https://drive.google.com/open?id=10jE8yNIBKhiIuZHHzFXUh-FSgsKhawiZ",
-      "TITLE": "Psychosomatic Medicine, the Balint Group, and General Practice",
-      "TEXT" : "Psychosomatic medicine and Balint group work share some origins in psychoanalysis and physical medicine. In most of the world psychosomatic medicine is an idea and way of thinking. In Germany, it has recently become a popular specialist practice. General practitioners, using Balint group work, remain well placed to help patients with psychosomatic problems..."
+    "GROUP4":{
+      "TITLE":"Articles",
+      "DOCUMENT_1": {
+        "URL": "https://drive.google.com/open?id=1vrzpquYdPDgBFBaPhZ1Y5vQi64RBEP4q",
+        "TITLE": "Possibilities and Prospects of Balint Groups’ Effectiveness Study",
+        "TEXT" : "The use of Balit groups as one of the tools for group supervision as well as in the undergraduate and postgraduate education of the specialists in helping professions increases the requirements for standardization of the work conducted, also posing questions concerning the possibilities of the assessment of its effectiveness. The article focuses on the prospects of the use of the adapted..."
+      },
+      "DOCUMENT_2": {
+        "URL": "https://drive.google.com/open?id=1-43BKhQPZd48ibDlTn1EYEzWChwSO260",
+        "TITLE": "Psychoprophylactic of Professional Deformation and Psychosomatic Disorders among Specialists in Helping Professions",
+        "TEXT" : "The article focuses on promotion of psychosomatic health in specialists of helping professions to improve the effectiveness of their psychosomatic activity. The goal of the research is the study of peculiarities of psychosomatic health and anxiety levels in educators and psychologists as well as prophylactic of professional deformations. In revealing the essence and structure of professional deformations..."
+      },
+      "DOCUMENT_3": {
+        "URL": "https://drive.google.com/open?id=1RhWhxy0oR82sKe3pW_cD1lGmeyVfiLdO",
+        "TITLE": "Supervising Balint Groups Under The Special View Of Psychosomatic Medicine",
+        "TEXT" : "The report will focus on reflecting and working out the special psychosomatic of a somatic symptom appearing in the psychosomatic medicine. The possibilities and tasks of supervising Balint groups that have taken place in a psychosomatic ward will be shown up within an example of such a Balint group. The paper centers on the special care of the psychodynamic point of view which develops and shows up in such a group in which a psychosomatic patient..."
+      },
+      "DOCUMENT_4": {
+        "URL": "https://drive.google.com/open?id=1kf3Vm6bpfuLEcsecf0Asbd4xEWeaVWa-",
+        "TITLE": "Bowlby, Balint and the Doctor-Patient Relationship: towards a theory of human relationships in medical practice.",
+        "TEXT" : "Despite continuing technological advance, there is a widespread view that something is missing in current medical culture. Crises of care are often attributed to poor communication without deeper enquiry into the complexities of doctor-patient interaction. I suggest that work originating from John Bowlby (Attachment Theory) and from Michael Balint (the doctor-patient relationship) can begin to supply..."
+      },
+      "DOCUMENT_5": {
+        "URL": "https://drive.google.com/open?id=1rZp7j3gi8lK3WN_2LGYpOVucCFOep4Ye",
+        "TITLE": "Balint Groups and Supervision Groups: Similarities and Differences",
+        "TEXT" : "This article deals with the study of Balint and supervision groups, detailing their goals, tasks and main characteristics. Comparative analysis of Balint groups and supervision groups is conducted, demonstrating their similarities and differences. The article describes the author’s experience of participation in a Balint group session..."
+      },
+      "DOCUMENT_6": {
+        "URL": "https://drive.google.com/open?id=1v4uiuvVa5Mqo3snRwcRN5j0_Ehm5e6kY",
+        "TITLE": "How beneficial are Balint groups?",
+        "TEXT" : "Participation in Balint groups is obligatory for some medical trainings as specialist. However, there is a substantial lack in empirical evidence of Balint group effects. The study reports about the development and validation of a questionnaire aiming at the identification of processes in Balint group work..."
+      },
+      "DOCUMENT_7": {
+        "URL": "https://drive.google.com/open?id=1IIZLlUIAntFWTA3cgUJPJftQvlS_rBdC",
+        "TITLE": "Balint Work and Sculptures Heide Otten and Kurt Fritzsche",
+        "TEXT" : "Sculpting is a tool for making an external picture or sculpt of an internal process such as a feeling, experience, or perception. We use sculpture for a better understanding of the meaning of illness in a family system, in the doctor-patient relationship or among hospital staff. In our international Balint work, sculptures are used in the Balint groups to enable access to the complex interactions among the patient, the different doctors, the family members and the illness..."
+      },
+      "DOCUMENT_8": {
+        "URL": "https://drive.google.com/open?id=1GxZDVOY9rhQRAAQY0G1trWS5OhLAhLBm",
+        "TITLE": "Psychosomatic Medicine and Balint Supervision of Doctors and Clinical Psychologists – Integration of Principles and Practical Interaction",
+        "TEXT" : "This article describes integrative relationships between the basic approaches of psychosomatic medicine and Balint supervision of physicians and psychologists. The article analyses the history of their creation and common principles related to complex issues of doctor-patient interaction and the therapy of psychosomatic disorders improved by Balint supervision..."
+      },
+      "DOCUMENT_9": {
+        "URL": "https://drive.google.com/open?id=10jE8yNIBKhiIuZHHzFXUh-FSgsKhawiZ",
+        "TITLE": "Psychosomatic Medicine, the Balint Group, and General Practice",
+        "TEXT" : "Psychosomatic medicine and Balint group work share some origins in psychoanalysis and physical medicine. In most of the world psychosomatic medicine is an idea and way of thinking. In Germany, it has recently become a popular specialist practice. General practitioners, using Balint group work, remain well placed to help patients with psychosomatic problems..."
+      }
     }
   },
   "HOME": {
