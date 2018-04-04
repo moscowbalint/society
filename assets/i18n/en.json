@@ -5,11 +5,11 @@
   "NAVBAR":{
     "HOME": "Home",
     "EVENTS": "Events",
-    "MOSCOW": "Russian",
+    "MOSCOW": "In Russia",
     "INTERNATIONAL": "International",
     "TRAININGS": "Trainings",
-    "SUPERVISOR": "Supervisor",
-    "BG_LEADS": "BG Leads",
+    "SUPERVISOR": "Supervisors",
+    "BG_LEADS": "BG Leaders",
     "BALINT_GROUPS": "Balint Groups",
     "MEMBERS": "Members",
     "LITERATURE": "Literature",
@@ -19,31 +19,31 @@
     "HISTORY": "History",
     "DOCUMENTS": "Documents",
     "PARTNERS": "Partners",
-    "REESTER": "Register of BG managers"
+    "REESTER": "Register of BG Leaders"
   },
   "CERTIFICATES":{
-    "TITLE":"Руководство по аккредитации лидеров Балинтовских групп",
-    "TEXT1":"Предложено руководством целевой группы Одобрено Советом МБФ в Зальцбурге, Австрия – 14 мая 2016 г.",
-    "TEXT2":"Данное руководство предназначено в качестве параметров для национальных Балинтовских обществ в разработке собственных критериев для аккредитации. К примеру, национальные Балинтовские общества должны будут определить необходимую длительность участия в Балинтовских группах. Балинтовским обществам нужно знать о том, что для психиатров и психотерапевтов так же важно приобретение опыта ведения Балинтовских групп до получения аккредитации, как и для врачей общей практики; процесс аккредитации психиатров и психотерапевтов будет отличаться от процесса аккредитации врачей общей практики.",
+    "TITLE":"Guidelines For Accreditation of Balint Leaders",
+    "TEXT1":"Proposed by the Leadership Task Force Approved by Council in Salzburg, Austria – 14 May, 2016",
+    "TEXT2":"These guidelines are intended as parameters for national societies to consider when drawing up their criteria for accreditation. National societies will want to define periods of sufficient lengths of time for being in a Balint Group, for instance. Societies need to be aware that it is equally important for psychiatrists and psychotherapists to acquire experience of leading Balint Groups before becoming accredited, as it is for GPs. And that the pathway for psychiatrists and psychotherapists will be different to the pathway for GPs.",
     "LIST":{
-      "1":"Лидеры Балинтовских групп должны иметь базовую профессиональную подготовку.",
-      "2":"Лидеры Балинтовских групп должны иметь предыдущий опыт участия в Балинтовской группе в течение достаточного* периода времени",
-      "3":"В рамках своей подготовки, лидеры Балинтовских групп должны иметь опыт со-лидерства с аккредитованным руководителем группы, которому впоследствии предлагается представить заключение/отзыв обществу по аккредитации.",
-      "4":"Лидеры Балинтовских групп должны иметь супервизора, в достаточной ** степени знакомого с их работой, для представления заключения/отзыва в общество по аккредитации.",
-      "5":"Следует провести оценку работы лидеров перед аккредитацией в соответствии со следующими критериями:",
-      "6":"Лидеры Балинтовских групп должны проходить адекватную и постоянную супервизию.",
+      "1":"Leaders should have appropriate basic professional training.",
+      "2":"Leaders must have prior experience of being in a Balint Group for a sufficient* length of time.",
+      "3":"Leaders should have co-led with an accredited leader as part of their training who is invited to provide a report/reference to the accrediting society.",
+      "4":"Leaders should have a supervisor who has sufficient** knowledge of their work to be able to provide a report/reference to the accrediting society.",
+      "5":"Leaders should be evaluated prior to accreditation according to the following criteria:",
+      "6":"Leaders should receive adequate and continuing supervision.",
       "SUBLIST":{
-        "1":"поощрение создания безопасной и свободной среды в рамках Балинтовской группы и понимание важности защиты границ участников группы",
-        "2":"умение соредоточиться на исследовании отношений врач-пациент, а не поиске решений либо попытках обучить членов группы",
-        "3":"готовность изучить свой собственный стиль ведения групп и осознавание влияния своего отношения и реакций на динамику группы",
-        "4":"понимание групповых и бессознательных процессов, способных повлиять на первоочередную задачу группы",
-        "5":"понимание того, что получение аккредитации лидера Балинтовской группы не есть завершение, а лишь начало."
+        "1":"that they encourage the development of a safe and free environment within the group and are aware of the importance of protecting the boundaries of the group",
+        "2":"that they focus the work on an exploration of the doctor-patient relationship rather than seeking solutions or teaching",
+        "3":"that they are open to learning about their personal style in leading a group and aware that their attitudes and responses will influence the dynamics of the group",
+        "4":"that they have an awareness of group processes and unconscious processes that are likely to affect the primary task of the group",
+        "5":"that they recognize that becoming an accredited Balint leader is a not an end but a beginning"
       }
     },
-    "*":"* определяется обществом по аккредитации",
-    "**":"** в некоторых обществах соблюдение данного пункта не представляется возможным",
-    "LEAD_TRAINING":" Balint group lead trainings",
-    "SUPERVISOR_TRAINING":" Balint group supervisor trainings"
+    "*":"* to be determined by accrediting societies",
+    "**":"** may not be possible at present in some societies",
+    "LEAD_TRAINING":" Balint Group Leaders Training",
+    "SUPERVISOR_TRAINING":" Balint Group Supervisors Training"
   },
   "CONTACT":{
     "TITLE": "Contacts",
@@ -51,7 +51,7 @@
     "SECRETARY": "Secretary",
     "PHONE": "Phone",
     "EMAIL": "E-mail",
-    "VICE_PRESIDENT": "Vice-president"
+    "VICE_PRESIDENT": "Vice President"
   },
   "EVENTS":{
     "MOSCOW_TITLE":"Russian Events list",
@@ -98,30 +98,30 @@
     "TITLE": "About Michael Balint"
   },
   "MEMBERS":{
-    "CAPTION":"Balint Society in Moscow",
+    "CAPTION":"Moscow Balint Society",
     "TITLE":"Members",
     "NAME":"Name",
-    "LASTNAME":"Lastname",
-    "CITY":"City",
-    "HONORARY_MEMBERS":"Honorary members"
+    "LASTNAME":"Last name",
+    "CITY":"Location",
+    "HONORARY_MEMBERS":"Honorary Members"
   },
   "TRAININGS":{
     "MODULE":"module",
     "LEADS_DESC" :{
-      "TITLE" : "Международная Программа обучения на руководителя Балинтовской группы.",
-      "MODULE1" : "Балинтовский групповой тренинг самопознания и профессионального роста",
-      "MODULE1_DESC" : "<strong>- 72 академических часа - 4 семинара по 18 академических часов - в течение 6 месяцев </strong> <p>(посещение БГ в качестве участника)",
-      "MODULE2" : "Обучение на руководителя БГ. Тренинг руководителей БГ. Теория и практика БГ.",
-      "MODULE2_DESC" : "<strong>-96 академических часов - 6 семинаров по 16 академических часов – в  течение одного  года</strong><p> (работа в БГ в качестве руководителя и ко-руководителя под руководством супервизора, методический семинар)",
-      "MODULE3": "Мастер-класс зарубежных (германских, британских и др.) руководителей",
-      "MODULE3_DESC" : "<strong>- 30 академических часов - 2 семинара (по 14-16 академических часов)</strong><p>Возможно участие в семинарах в Германии и Великобритании по предварительной договоренности.<p>Возможно участие в мастер-классах, организованных в рамках конференций.",
-      "MODULE4":"Самостоятельная работа в качестве руководителя и ко-руководителя БГ.",
-      "MODULE4_DESC":"<strong>- 72 академических часа - не менее 9 месяцев</strong><p><strong>Отчет о работе</strong> Регистрация группы (на имя преподавателя высылается список участников группы с указанием их почты).<p><strong>Супервизия работы</strong> в  качестве  руководителя  БГ -<strong>3 супервизии</strong> за время 4-го  модуля.<p>Супервизию можно получать по скайпу.",
-      "TEXT1":"<strong><u>Для специалистов из регионов</u></strong> возможно (при желании) объединение семинаров.",
-      "TEXT2":"<strong><u>По окончании обучения</u></strong><p> специалист получает сертификат руководителя Балинтовской группы ОППЛ и сертификат Московского Балинтовского общества. Последний дает специалисту возможность участвовать в международных мероприятиях, поскольку для такого участия необходима аккредитация в национальном Балинтовском обществе.",
-      "TEXT3":"<strong><u>К сертификации специалисту необходимо иметь</u></strong><p>- 100 часов психотерапии  (личной терапии)<p>- 30 часов супервизии психотерапевтической практики у сертифицированных специалистов.",
-      "TEXT4":"<strong><u>После получения сертификата руководителя БГ</u></strong><p>специалист имеет право вести Балинтовские группы и проводить 1-й модуль в Программе обучения на руководителя БГ (4 семинара - 72 часа).",
-      "TEXT5":"<strong><u>Дальнейшее обучение</u></strong><p>(14 семинаров зарубежных руководителей) дает специалисту право преподавания полной Программы обучения на  руководителя БГ и получения статуса <strong>Руководителя Балинтовской группы Международной практики.</strong>"
+      "TITLE" : "International Balint Group Leader Training Program",
+      "MODULE1" : "Balint group training for self-awareness and professional development",
+      "MODULE1_DESC" : "<strong>- 72 academic hours - 4 seminars, 18 academic hours each - 6 months</strong> <p>(BG attendance as a group participant)",
+      "MODULE2" : "BG leaders training. BG theory and practice",
+      "MODULE2_DESC" : "<strong>- 96 academic hours - 6 seminars, 16 academic hours each – 1 year</strong><p> (Balint work as a leader and co-leader under the guidance of a supervisor, methodology workshop",
+      "MODULE3": "Master class by foreign (German, British etc.) BG leaders",
+      "MODULE3_DESC" : "<strong>- 30 academic hours - 2 seminars, 14-16 academic hours each</strong><p>Participation in Germany- and Great Britain-hosted seminars possible by prior arrangement<p>Participation in master classes held on the sidelines of conferences possible",
+      "MODULE4":"Independent work as a BG leader and co-leader",
+      "MODULE4_DESC":"<strong>- 72 academic hours - at least 9 months</strong><p><strong>Work report:</strong>Group registration (a list of participants and their e-mails sent to the trainer)<p><strong>BG leader’s work supervision</strong>-<strong>3 supervisions</strong>during Module 4<p>Supervision can be conducted via Skype",
+      "TEXT1":"<strong><u>Combining of seminars possible for regional specialists</u></strong>(if specifically requested)",
+      "TEXT2":"<strong><u>On completion of training</u></strong><p>the specialist is awarded a PPL Balint Group Leader Certificate as well as Moscow Balint Society Certificate. The latter allows the specialist to participate in international events, which require accreditation with the national Balint society.",
+      "TEXT3":"<strong><u>To qualify for a certificate, the specialist must undergo a total of</u></strong><p>- 100 hours of psychotherapy (personal therapy)<p>- 30 hours of psychotherapy practice supervision with certified specialists.",
+      "TEXT4":"<strong><u>The BG Leader Certificate allows the specialist to conduct the 1st module of the BG Leader Training Program (4 seminars – 72 hours).",
+      "TEXT5":"<strong><u>Further training</u></strong><p>((14 seminars with foreign BG leaders) allows specialists to teach the full course of BG Leader Training Program as well as provides the status of the International Practice Balint Group Leader.</strong>"
     },
     "GROUPS_DESC": {
       "TITLE":"What is Balint Group",
@@ -135,58 +135,58 @@
       "PARAGRAPH7":"<strong class='caption'>В результате работы в БГ наступает:</strong><br><p>- улучшение восприятия и понимания коммуникации с пациентом,<p>- осознание терапевтической значимости межличностных отношений и их границ,<p>- расширение репертуара коммуникативных стереотипов,<p>- осознание собственных «слепых пятен», психологических защит. Переносов и контрпереносов, защита от «эмоционального выгорания»,<p>- личностный рост."
     },
     "SUPERVISOR_DESC": {
-      "TITLE":"Краткий обзор.",
-      "PARAGRAPH1":"<strong> Описание статуса </strong><p> Руководитель-супервизор балинтовской группы, сертифицированный ППЛ имеет право проводить и документально подтверждать часы работы участников в балинтовской группе с представлением на соответствующую сертификацию следующие категории балинтовских групп:",
-      "PARAGRAPH1_1":"Основы балинтовской групповой работы – 36-40 часов",
-      "PARAGRAPH1_2":"Балинтовский групповой тренинг самопознания и профессионального роста. Базовый курс – 72 часа.",
-      "PARAGRAPH1_3":"Тренинг руководителей балинтовских групп. Теория и практика групповой балинтовской работы. Годичный курс, 6 сдвоенный семинаров один раз в два месяца, 96 часов.",
-      "PARAGRAPH1_4":"Супервизировать тренинг руководителей балинтовских групп, участвовать в проведении специальной программы подготовки супервизоров балинтовской работы.",
-      "PARAGRAPH2":"<strong>Минимальные требование к кандидату для получения статуса “Руководитель-супервизор” балинтовских групп ППЛ: </strong><p>",
-      "PARAGRAPH2_1":"8 лет стажа профессиональной деятельности (психотерапевт, психолог-консультант, врач, социальный работник, педагог);  250 часов личной терапии; прохождение полного курса обучения руководителя балинтовской группы; психологи консультанты и психотерапевты дополнительно должны иметь 3000 часов практики и 250 часов индивидуальной и групповой супервизии;",
-      "PARAGRAPH2_2":"Стаж руководителя балинтовской группы международной практики, сертифицированного ППЛ не менее трех лет.",
-      "PARAGRAPH2_3":"Опыт проведения балинтовских групп, подтвержденный документально не менее 9 месяцев в год с частотой не менее один раз в месяц.",
-      "PARAGRAPH2_4":"5 супервизий в год личной практики балинтовской работы.",
-      "PARAGRAPH2_5":"3 супервизорских семинара международной практики в российско-немецких смешанных группах в Германском балинтовском обществе и ППЛ",
-      "PARAGRAPH3":"<strong>Порядок присвоения статуса Руководителя-супервизора балинтовских групп сертифицированного ППЛ:</strong><p>",
-      "PARAGRAPH3_1":"Статус присваивается Комитетом по личной терапии и балинтовскому движению ППЛ.",
-      "PARAGRAPH3_2":"Документы, предоставляемые специалистом, претендующим на получение статуса Руководителя-супервизора балинтовских групп ППЛ: Заявление специалиста, претендующего на получение статуса, с указанием выполненных нормативов профессиональной подготовки.",
-      "PARAGRAPH3_3":"При положительном решении Комитета о присвоении статуса, специалисту выдается Свидетельство “Руководителя-супервизора балинтовской группы ППЛ” утвержденного образца <p>Данные специалиста вносятся в реестр Руководителей балинтовскох групп ППЛ и публикуются на официальном сайте ППЛ, пребывание в реестре оплачивается специалистом.",
-      "PARAGRAPH3_4":"Статус присваивается на срок до 5 лет, после чего статус может быть продлен по заявлению специалиста и соответствующего решения Комитета по личной терапии и балинтовскому движению ППЛ."
+      "TITLE":"Overview",
+      "PARAGRAPH1":"<strong>Status description</strong><p> PPL-certified supervising BG leader is allowed to conduct and document training hours of the Balint group participants to be considered in issuing the following types of certificates:",
+      "PARAGRAPH1_1":"Basics of Balint group work - 36-40 hours",
+      "PARAGRAPH1_2":"Balint group training for self-awareness and professional development. Basic course -72 hours",
+      "PARAGRAPH1_3":"Balint group leaders’ training. Theory and practice of Balint group work. One-year course; 6 double seminars held once in 2 months - 96 hours",
+      "PARAGRAPH1_4":"Supervision of the Balint group leaders’ training, participation in a special program for Balint work supervisors",
+      "PARAGRAPH2":"<strong>Minimal requirements for the PPL-certified supervising BG leader candidate:</strong><p>",
+      "PARAGRAPH2_1":"8 years’ professional experience (as a psychotherapist, consulting psychologist, doctor, social worker, educator); 250 hours of personal therapy, full course of the Balint group leader training; consulting psychologists and psychotherapists  are required additional 3000 hours of psychotherapeutic practice and 250 hours of individual and group supervision",
+      "PARAGRAPH2_2":"A minimum of 3 years of professional experience as a PPL-certified Balint group leader",
+      "PARAGRAPH2_3":"At least 9 months (out of a year) of documented experience of conducting Balint groups for a minimum of once a month",
+      "PARAGRAPH2_4":"5 supervisions of a personal practice of Balint work a year",
+      "PARAGRAPH2_5":"3 supervisory seminars in mixed Russian-German groups in German Balint Society and PPL",
+      "PARAGRAPH3":"<strong>Procedure for granting the PPL-certified supervising BG leader status:</strong><p>",
+      "PARAGRAPH3_1":"The status is granted by the PPL Committee for Personal Therapy and Balint Movement",
+      "PARAGRAPH3_2":"The contender should submit an application for the PPL-certified supervising BG leader containing a documented list of professional targets met",
+      "PARAGRAPH3_3":"In case of the Committee’s positive decision to grant the status, the contender receives the status of a PPL-certified supervising BG leader of the approved model. <p>The specialist’s personal data is further included in the PPL Balint Group Leaders’ Register and gets published on the PPL official website; the specialist covers the fee for retaining the data on the register",
+      "PARAGRAPH3_4":"The status is granted for a term period of 5 years, the status can be further extended following the application of the specialist and a corresponding decision of the PPL Committee for Personal Therapy and Balint Movement"
     },
-    "SUPERVISOR_TITLE": "Supervisor trainings",
-    "LEADS_TITLE": "Balint group leads trainings",
-    "GROUPS_TITLE": "Balint Groups trainings",
+    "SUPERVISOR_TITLE": "Supervisors Training",
+    "LEADS_TITLE": "Balint Group Leaders Training",
+    "GROUPS_TITLE": "Balint Groups Training",
     "SHOW_MORE":"Show more...",
     "SHOW_LESS":"Show less..."
   },
   "LITERATURE": {
     "GROUP1":{
-      "TITLE":"Materials of International Balint Conference in Moscow, 2017",
+      "TITLE":"Proceedings of the International Balint Conference in Moscow, 2017",
       "DOCUMENT_1": {
         "URL": "https://drive.google.com/open?id=1bs3c-tG_TBL3jCryqDPMqcyZInvmTyUK",
-        "TITLE": "Collection of Materials of the Third International Conference",
-        "TEXT" : "«Psychosomatic Medicine And Balint Groups - Theory and Interaction Practice»"
+        "TITLE": "Proceedings of the Third International Conference",
+        "TEXT" : "Psychosomatic Medicine and Balint Groups - Theory and Practice of Interaction"
       },
       "DOCUMENT_2": {
         "URL": "https://drive.google.com/open?id=1wJ4Fu6q4P3QtewgFeW_AkdQGLN2spOGK",
-        "TITLE": "Press Release of the Third International Conference",
-        "TEXT" : "«Psychosomatic Medicine And Balint Groups - Theory and Interaction Practice»"
+        "TITLE": "The Third International Conference Press Release",
+        "TEXT" : "Psychosomatic Medicine and Balint Groups - Theory and Practice of Interaction"
       }
     },
     "GROUP2":{
-      "TITLE":"Materials of International Balint Conference in Armenia, 2016",
+      "TITLE":"Proceedings of the International Balint Conference in Armenia, 2016",
       "DOCUMENT_1": {
         "URL": "https://drive.google.com/open?id=1H308BvDlr-zpFstYDn40jW5PZiePfhdm",
-        "TITLE": "Collection of Materials of the Second International Conference",
+        "TITLE": "Proceedings of the Second International Conference",
         "TEXT" : "Preservation and Improvement of Heath and Well-being in Specialists of Helping Professions. The Role of Balint Movement."
       }
     },
     "GROUP3":{
-      "TITLE": "Materials of International Balint Conference in Armenia, 2015",
+      "TITLE": "Proceedings of the International Balint Conference in Armenia, 2015",
       "DOCUMENT_1": {
         "URL": "https://drive.google.com/open?id=14QyTc1gtm87DZe6tKWAVkED8rLEf-DUn",
-        "TITLE": "Collection of Materials of the First International Conference",
-        "TEXT" : "Emotional Burnout And Balint Movement In Helping Professions"
+        "TITLE": "Proceedings of the First International Conference",
+        "TEXT" : "Emotional Burnout and Balint Movement in Helping Professions"
       }
     }
   },
@@ -261,8 +261,8 @@
       "TITLE": "LITERATURE"
     },
     "EVENTS": {
-      "RUSSIAN_TITLE": "Russian events",
-      "INTERNATIONAL_TITLE": "International events"
+      "RUSSIAN_TITLE": "Events in Russia",
+      "INTERNATIONAL_TITLE": "International Events"
     },
     "CONTACT": {
       "TITLE": "CONTACT"
