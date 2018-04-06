@@ -17,7 +17,7 @@
     "CONTACT": "Contact",
     "ABOUT": "About",
     "HISTORY": "History",
-    "DOCUMENTS": "Documents",
+    "DOCUMENTS": "Official Documents",
     "PARTNERS": "Partners",
     "REESTER": "Register of BG Leaders"
   },
@@ -46,7 +46,7 @@
     "SUPERVISOR_TRAINING":" Balint Group Supervisors Training"
   },
   "CONTACT":{
-    "TITLE": "Contacts",
+    "TITLE": "Contact",
     "PRESIDENT": "President",
     "SECRETARY": "Secretary",
     "PHONE": "Phone",
@@ -54,13 +54,13 @@
     "VICE_PRESIDENT": "Vice President"
   },
   "EVENTS":{
-    "MOSCOW_TITLE":"Russian Events list",
-    "INTERNATIONAL_TITLE":"International Events list",
-    "MORE_DETAILS": "More details",
+    "MOSCOW_TITLE":"Russian Events List",
+    "INTERNATIONAL_TITLE":"International Events List",
+    "MORE_DETAILS": "Find out more",
     "EVENT_INFO": {
       "COMMITTEE": "Leaders",
-      "FIND_OUT": "Find out more in official website",
-      "DETAILS": "Details",
+      "FIND_OUT": "Find out more on official website",
+      "DETAILS": "Find out more",
       "START": "Start",
       "END": "End",
       "AT": "at",
@@ -73,23 +73,23 @@
     }
   },
   "GALLERY_LINKS": {
-    "0": "Congress in Ufa, Second Congress of Assisting Professions, 2017",
+    "0": "Congress in Ufa, The Second Congress of Helping Professionals, 2017",
     "1": "International Balint Congress in Metz, France, 2015",
     "2": "International Balint Congress in Oxford, September 6-10, 2017",
-    "3": "International Balintic Conference for Executives BG in Warsaw, September, 2016",
+    "3": "International Balint Leadership Conference in Warsaw, September, 2016",
     "4": "Scientific Student Circle, 2017",
-    "6": "Seminar of Dr. Bergmann in the First Moscow State Medical University. Sechenov, Moscow, October 2017",
-    "7": "Training seminar for the leaders of BG, Novosibirsk, 2017",
-    "8": "International Conference, Shymkent, October 2017, presentation of the report and presentation of the Balint Group",
-    "9":"Балинтовские группы с медсестрами, 2015-2016, ПКБ 3 им. В.А. Гиляровского",
-    "10":"Выступление с докладом и презентацией на Международном форуме медсестер, май, 2017, Москва, Первый МГМУ им. Сеченова",
-    "12":"Speech with a poster at the International Balint Congress, September, 2017",
+    "6": "Seminar by Dr. Bergmann in I. M. Sechenov First Moscow State Medical University, Moscow, October 2017",
+    "7": "BG leaders training seminar, Novosibirsk, 2017",
+    "8": "International Conference, Shymkent, Kazakhstan, October 2017, Balint Group presentation",
+    "9": "Balint groups with nurses, 2015-2016, No 3 Gilyarovsky Psychiatric Hospital",
+    "10":"BG presentation at International Nursing Forum, May 2017, Moscow, I. M. Sechenov First Moscow State Medical University",
+    "12":"Poster presentation at the International Balint Congress, September, 2017",
     "14":"Annual Balint Conference, London, February 2015,2016",
     "15":"Conference in Orel, May 2017",
-    "17":"Training seminar in Novosibirsk, 2017, December",
-    "20":"Seminar for supervisors BG in the framework of the International Balint conference, Moscow, July, 2017 Executives - Dr. F. Ludwig-Eckelmann and Dr. Kurt Fritsche (Germany)",
-    "21":"Master class BG in the framework of the International Cardiological Congress, Nizhny Novgorod, March 25, 2018",
-    "22":"Training seminar for the leaders of BG, March 25, 2018, Nizhny Novgorod",
+    "17":"Training seminar in Novosibirsk, December 2017",
+    "20":"BG supervisors seminar in the framework of the International Balint Conference, Moscow, July 2017, conducted by Dr. F. Ludwig-Eckelmann and Dr. Kurt Fritsche (Germany)",
+    "21":"BG master class in the framework of the International Cardiology Congress, Nizhny Novgorod, March 25, 2018",
+    "22":"BG leaders training seminar March 25, 2018, Nizhny Novgorod",
     "23": "International Conference in Armenia 2016",
     "24": "International Conference in Armenia 2015"
     
@@ -121,22 +121,22 @@
       "TEXT2":"<strong><u>On completion of training</u></strong><p>the specialist is awarded a PPL Balint Group Leader Certificate as well as Moscow Balint Society Certificate. The latter allows the specialist to participate in international events, which require accreditation with the national Balint society.",
       "TEXT3":"<strong><u>To qualify for a certificate, the specialist must undergo a total of</u></strong><p>- 100 hours of psychotherapy (personal therapy)<p>- 30 hours of psychotherapy practice supervision with certified specialists.",
       "TEXT4":"<strong><u>The BG Leader Certificate allows the specialist to conduct the 1st module of the BG Leader Training Program (4 seminars – 72 hours).",
-      "TEXT5":"<strong><u>Further training</u></strong><p>((14 seminars with foreign BG leaders) allows specialists to teach the full course of BG Leader Training Program as well as provides the status of the International Practice Balint Group Leader.</strong>"
+      "TEXT5":"<strong><u>Further training</u></strong><p>(14 seminars with foreign BG leaders) allows specialists to teach the full course of BG Leader Training Program as well as provides the status of the International Practice Balint Group Leader.</strong>"
     },
     "GROUPS_DESC": {
-      "TITLE":"What is Balint Group",
-      "CAPTION":"Балинтовская группа – классический метод групповой тренинговой исследовательской работы, используемый  для профилактики профессионального выгорания специалистов помогающих профессий.",
-      "PARAGRAPH1":"<strong>Центральный объект исследования в классической Балинтовской группе </strong>– отношения «врач – пациент», «психолог – клиент» и т.д.<p>Анализ этих отношений дает возможность более полно понять клиента во всем многообразии его связей и взаимодействий с реальным миром, побывать «по другую сторону» взаимоотношений с пациентом, и, таким образом, улучшить навыки профессионального общения и преодолеть кризисы в личностном и профессиональном развитии.",
-      "PARAGRAPH2":"<p>Первые тренинговые семинары для врачей общего профиля были организованы в 50-х годах в Лондоне на базе знаменитой Тэвистокской клиники <strong>Микаэлем Балинтом</strong>,психоаналитиком венгерского происхождения. В своей знаменитой, ставшей классической, работе «Доктор, его пациент и болезнь», Балинт изложил основы проведения подобного рода семинаров, и его имя закрепилось за методом.",
-      "PARAGRAPH3":"<strong class='caption'>Работа в Балинтовской группе направлена на:</strong><p>повышение компетентности в профессиональном межличностном общении;<p>осознание личностных 'слепых пятен', блокирующих профессиональные отношения с пациентом;<p>расширение представлений о лечебном процессе ( в противовес 'апостольским' установкам врача);<p>на психопрофилактику участников группы, основанную на возможности проработки 'неудачных' случаев  в ситуации коллегиальной поддержки",
-      "PARAGRAPH4":"<strong>Стандартные правила работы в группе:</strong>конфиденциальность, искренность, личная ответственность уважению к мнению других, правило «стоп», не использование психологических и медицинских терминов, не критиковать и не советовать.",
-      "PARAGRAPH5":"<strong class='caption'>Цели работы Балинтовских групп:</strong><br><p>- поощрять врачей ценить свои навыки межличностных отношений и учиться понимать их пределы,<p>- улучшить восприятие и понимание коммуникации пациента врачами,<p>- позволить врачам осознавать свои «слепые пятна» в общении с пациентами,<p>- психопрофилактика синдрома выгорания.",
-      "PARAGRAPH6":"<strong class='caption'>Балинтовская группа помогает ответить на вопросы:</strong><br><p>- почему во взаимоотношениях с пациентами врачи многое игнорируют?<p>- почему часто они не в состоянии разобраться в своих чувствах, возникающих в ходе этих взаимоотношений?<p>- как проявляются у врачей сопротивление, защита и перенос, возникающие под влиянием чувств и переживаний, касающихся пациентов?<p>и как это влияет:<p>- на коммуникацию с пациентами;<p>- на эффективность терапевтического контакта;<p>- на профессиональное самочувствие врача.",
-      "PARAGRAPH7":"<strong class='caption'>В результате работы в БГ наступает:</strong><br><p>- улучшение восприятия и понимания коммуникации с пациентом,<p>- осознание терапевтической значимости межличностных отношений и их границ,<p>- расширение репертуара коммуникативных стереотипов,<p>- осознание собственных «слепых пятен», психологических защит. Переносов и контрпереносов, защита от «эмоционального выгорания»,<p>- личностный рост."
+      "TITLE":"About Balint Groups",
+      "CAPTION":"The Balint group is a classic method of group training research work, used to prevent the professional burnout of specialists in helping professions.",
+      "PARAGRAPH1":"<strong>The central object of the research in the classical Balint group is the 'doctor-patient', 'psychologist-client', etc. relationship.<p>АThe analysis of these relationships provides an opportunity to more fully understand the client in all the variety of his connections and interactions with the real world, to gain an alternative perspective of the relationship with the patient, thus improving the skills of professional communication and helping to overcome crises in personal and professional development.",
+      "PARAGRAPH2":"<p>The first training seminars for general practitioners were organized in the 50s in London’s famous Tavistock Clinic by Michael Balint, a psychoanalyst of Hungarian origin. In his famous classic work, The Doctor, his Patient and the Illness, Balint outlined the basics of such seminars, with the method named after him.",
+      "PARAGRAPH3":"<strong class='caption'>The Balint group work is aimed to:</strong><p>increase competence in professional interpersonal communication;<p>boost awareness of personal blind spots blocking professional relations with the patient;<p>expand ideas about the treatment process (as opposed to doctors’ “apostolic” attitude);<p>enable psychological prophylaxis of the group participants, based on the possibility of working out “unsuccessful” cases in the environment of collegial support",
+      "PARAGRAPH4":"<strong>Standard rules of Balint group work: confidentiality, sincerity, personal responsibility, respect for the opinion of others, the rule of 'stop,' non-use of psychological and medical terms, no criticism or advising.",
+      "PARAGRAPH5":"<strong class='caption'>The objectives of Balint group work:</strong><br><p>- to encourage physicians to value their interpersonal skills and learn to understand their limits,<p>- to improve the doctors’ perception and understanding of patients’ communication,<p>- to boost the doctors’ awareness of their 'blind spots' in communicating with patients,<p>- to enable psychological prophylaxis of burnout syndrome.",
+      "PARAGRAPH6":"<strong class='caption'>The Balint group helps answer the following questions:</strong><br><p>- Why do doctors ignore a lot in their relationships with patients?<p>- Why are they often unable to understand their feelings occurring in the course of these relationships?<p>- How are resistance, defense and transference occurring under the influence of feelings and emotions related to patients manifested in doctors?<p>and how it affects:<p>- communication with patients;<p>- the effectiveness of therapeutic contact;<p>- professional health of the doctor.",
+      "PARAGRAPH7":"<strong class='caption'>BG work results in:</strong><br><p>- improvement of the perception and understanding of communication with the patient,<p>- awareness of the therapeutic significance of interpersonal relationships and their boundaries,<p>- expansion of the repertoire of communicative stereotypes,<p>- increased awareness of 'blind spots,' psychological defenses. Transference and counter transference, prevention of 'emotional burnout,'<p>- personal growth."
     },
     "SUPERVISOR_DESC": {
       "TITLE":"Overview",
-      "PARAGRAPH1":"<strong>Status description</strong><p> PPL-certified supervising BG leader is allowed to conduct and document training hours of the Balint group participants to be considered in issuing the following types of certificates:",
+      "PARAGRAPH1":"<strong>Status description</strong><p> A PPL-certified supervising BG leader is allowed to conduct and document training hours of the Balint group participants to be considered in issuing the following types of certificates:",
       "PARAGRAPH1_1":"Basics of Balint group work - 36-40 hours",
       "PARAGRAPH1_2":"Balint group training for self-awareness and professional development. Basic course -72 hours",
       "PARAGRAPH1_3":"Balint group leaders’ training. Theory and practice of Balint group work. One-year course; 6 double seminars held once in 2 months - 96 hours",
@@ -192,7 +192,7 @@
   },
   "HOME": {
     "GENERAL": "General",
-    "UPCOMMING_EVENTS_TITLE":"Upcomming events",
+    "UPCOMMING_EVENTS_TITLE":"Upcoming Events",
     "GALLERY_LINKS_TITLE":"Archive",
     "ADDRESS": "ADDRESS",
     "ZIP": "ZIP",
@@ -207,17 +207,17 @@
   "ABOUT": {
     "TITLE": "WELCOME",
     "PARTNERS": {
-      "OPPL": "Russian league of professional psychotherapists"
+      "OPPL": "All-Russian Professional Psychotherapeutic League"
     },
     "OUR_HISTORY": {
-      "TITLE": "О НАС",
+      "TITLE": "About Us",
       "TEXT": {
-        "1": "Балинтовское движение  уже давно стало неотъемлемой частью профессиональной культуры среди специалистов помогающих профессий  в  развитых странах, а их открытость Балинтовской работе стала показателем  уровня их профессионализма. Позитивное влияние Балинтовской работы на качество профессиональных отношений  в сфере помогающих профессий не вызывает сомнений в научной среде.",
-        "2": "Теперь Балинтовское движение разворачивается и в России. Сознавая свою социальную и профессиональную ответственность, члены Балинтовского Общества в г. Москве считают важным и необходимым основывать свою работу на принципах научности, открытости и легитимности.",
-        "3": "Балинтовское Общество в г. Москве было основано 3 августа 2017 года (запись о некоммерческой организации внесена в Единый государственный реестр юридических лиц 03 августа 2017 года за основным государственным регистрационным номером: 117770012379) как общественная некоммерческая организация, объединяющая врачей, психологов, медицинских и социальных работников, действующая на основании Устава под управлением Совета организации.",
-        "4": "Балинтовское Общество в г. Москве ориентируется на высокие профессиональные и этические стандарты Балинтовской работы, описанные  в Уставе и Положении о руководителе Балинтовской группы Международной Балинтовской Федерации (IBF).",
-        "5": "Цели нашего общества — профессиональная подготовка ведущих Балинтовских групп, содействие распространению соответствующих знаний и идей в широком профессиональном сообществе, а также развитие широкой практики Балинтовских групп, соответствующих требованиям Международной Балинтовской Федерации. (IBF).",
-        "6": "Translated and published book by Dr. Otten 'Professional Relationships'"
+        "1": "The Balint movement has long been an integral part of professional culture among specialists in helping professions in developed countries, and their openness to Balint work has become an indicator of their level of professionalism. The positive impact of Balint work on the quality of professional relations in the field of helping professions is unquestionable in the scientific community.",
+        "2": "The Balint movement is currently gaining popularity in Russia. Aware of their social and professional responsibility, members of Moscow Balint Society consider it important to base their work on the principles of scientificity, openness and legitimacy.",
+        "3": "The Moscow Balint Society was founded on August 3, 2017 (the record of a non-profit organization was included in Russia’s Unified State Register of Legal Entities on August 3, 2017; state registration number: 117770012379) as a public non-profit organization for assistance to doctors, psychologists, medical and social workers, acting in accordance with the organization Statute under the authority of the organization Board.",
+        "4": "The Moscow Balint Society is guided by the high professional and ethical standards of the Balint work, described in the Statute and Regulations on Balint Group leadership of the International Balint Federation (IBF).",
+        "5": "The Moscow Balint Society goals are: professional training of BG leaders, dissemination of the Balint ideas and knowledge among the professional community at large, promotion of Balint work in accordance with the requirement of the International Balint Federation (IBF).",
+        "6": "Russian translation of Dr. Heide Otten’s The Theory and Practice of Balint Group Work: Analyzing Professional Relationships"
       }
     },
     "DOCUMENTS": {
@@ -239,9 +239,9 @@
     }
   },
   "REESTER":{
-    "TITLE": "Register of certified managers BG Balint society in Moscow",
-    "TITLE1":"Supervisors",
-    "TITLE2":"Leads"
+    "TITLE": "Register of Certified Moscow Balint Society BG Leaders",
+    "TITLE1":"Supervising BG Leaders",
+    "TITLE2":"BG Leaders"
   },
   "CONTACTS": {
     "TITLE": "WELCOME"
