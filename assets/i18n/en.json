@@ -21,6 +21,14 @@
     "PARTNERS": "Partners",
     "REESTER": "Register of BG Leaders"
   },
+  "CAROUSEL":{
+    "TITLE1":"International Balint Conference, July 2017, Moscow, Sechenov University",
+    "TITLE2":"Balint section on the sidelines of the PPL International Congress, October 2017, PPL President V. Makarov, German Balint Society President – G. Bergmann, Moscow Balint Society President – A. Avagimyan ",
+    "TITLE3":"International Conference in Armenia, 2015, excursion to Noravank Monastery",
+    "TITLE4":"International Conference in Armenia, 2015, gala dinner, cake 'Mount Ararat'",
+    "TITLE5":"Fish-tank style Balint group led by Doctor H. Otten, Tsakhkadzor, International Conference in Armenia, 2016",
+    "TITLE6":"International Conference in Armenia, 2016, Yerevan State University’s Psychology Department"
+  },
   "CERTIFICATES":{
     "TITLE":"Guidelines For Accreditation of Balint Leaders",
     "TEXT1":"Proposed by the Leadership Task Force Approved by Council in Salzburg, Austria – 14 May, 2016",
@@ -89,9 +97,9 @@
     "17":"Training seminar in Novosibirsk, December 2017",
     "20":"BG supervisors seminar in the framework of the International Balint Conference, Moscow, July 2017, conducted by Dr. F. Ludwig-Eckelmann and Dr. Kurt Fritsche (Germany)",
     "21":"BG master class in the framework of the International Cardiology Congress, Nizhny Novgorod, March 25, 2018",
-    "22":"BG leaders training seminar March 25, 2018, Nizhny Novgorod",
-    "23": "International Conference in Armenia 2016",
-    "24": "International Conference in Armenia 2015"
+    "22":"BG leaders training seminar, March 25, 2018, Nizhny Novgorod",
+    "23": "International Conference in Armenia, 2016",
+    "24": "International Conference in Armenia, 2015"
     
   },
   "WHO_WAS_BALINT":{
@@ -126,7 +134,7 @@
     "GROUPS_DESC": {
       "TITLE":"About Balint Groups",
       "CAPTION":"The Balint group is a classic method of group training research work, used to prevent the professional burnout of specialists in helping professions.",
-      "PARAGRAPH1":"<strong>The central object of the research in the classical Balint group is the 'doctor-patient', 'psychologist-client', etc. relationship.<p>АThe analysis of these relationships provides an opportunity to more fully understand the client in all the variety of his connections and interactions with the real world, to gain an alternative perspective of the relationship with the patient, thus improving the skills of professional communication and helping to overcome crises in personal and professional development.",
+      "PARAGRAPH1":"<strong>The central object of the research in the classical Balint group is the 'doctor-patient', 'psychologist-client', etc. relationship.</strong><p>The analysis of these relationships provides an opportunity to more fully understand the client in all the variety of his connections and interactions with the real world, to gain an alternative perspective of the relationship with the patient, thus improving the skills of professional communication and helping to overcome crises in personal and professional development.",
       "PARAGRAPH2":"<p>The first training seminars for general practitioners were organized in the 50s in London’s famous Tavistock Clinic by Michael Balint, a psychoanalyst of Hungarian origin. In his famous classic work, The Doctor, his Patient and the Illness, Balint outlined the basics of such seminars, with the method named after him.",
       "PARAGRAPH3":"<strong class='caption'>The Balint group work is aimed to:</strong><p>increase competence in professional interpersonal communication;<p>boost awareness of personal blind spots blocking professional relations with the patient;<p>expand ideas about the treatment process (as opposed to doctors’ “apostolic” attitude);<p>enable psychological prophylaxis of the group participants, based on the possibility of working out “unsuccessful” cases in the environment of collegial support",
       "PARAGRAPH4":"<strong>Standard rules of Balint group work: confidentiality, sincerity, personal responsibility, respect for the opinion of others, the rule of 'stop,' non-use of psychological and medical terms, no criticism or advising.",
@@ -222,19 +230,19 @@
     },
     "DOCUMENTS": {
       "DOCUMENT_1": {
-        "URL": "https://drive.google.com/open?id=1x-PSsSPuPIVE1P__dadBY561rDg_XF9j",
-        "TITLE": "УВЕДОМЛЕНИЕ ОБ ОТКРЫТИИ БАНКОВСКОГО СЧЕТА",
-        "TEXT" : "Обращаем внимание: Банк в соответствии с дополнительным соглашением к договору банковского счета имеет право отказать Клиенту в приеме расчетных (платежных) документов, денежных чеков по счету вслучае оформления представленных клиентом документов для открытия счета с нарушением требований действующего законодательства и нормативных документов Банка России, а также при непредставлении Клиентом в Банк сведений, предусмотренных Положением Банка России «Об идентификации кредитными организациями клиентов и выгодоприобретателей в целях противодействии легализации (отмыванию) доходов, полученных преступным путем, и финансированию терроризма» от 19.08.2004 No 262-П...."
+        "URL": "https://drive.google.com/open?id=1HW0NSK8jvUaPyGOdQXyk6hCf4gQO19ll",
+        "TITLE": "BANK ACCOUNT OPENING NOTIFICATION",
+        "TEXT" : "Attention: the Bank, in accordance with the amendment to the bank account agreement, has the right to refuse to accept the Client’s receipt of settlement (payment) documents, and cash checks in case the documents submitted by the Client for opening an account violate the requirements of the current legislation and regulatory documents of the Bank of Russia, as well as in case the Client fails to provide the Bank with information specified in the Regulation of the Bank of Russia “On the identification of credit organizations of customers and beneficiaries in order to counteract the legalization (laundering) of proceeds from crime and the financing of terrorism” of 19.08.2004 No. 262-P..."
       },
       "DOCUMENT_2": {
-        "URL": "https://drive.google.com/open?id=1Ce5qvyknB976i4oFp1NmMkWr9uFH1xUG",
-        "TITLE": "ГЕРАЛЬДИЧЕСКИЙ СОВЕТ ГОРОДА МОСКВЫ",
-        "TEXT" : "Ваше обращение по вопросу согласования права на использование словесного символа города Москвы в наименовании Региональной общественной организации врачей, психологов, медицинских и социальных работников 'Московское Балинтовское Общество' Геральдическим советом города Москвы (далее - Совет) в рамках компетенции рассмотрено....."
+        "URL": "https://drive.google.com/open?id=1Oz5LiOYcYPQ6mJn_y8DgFfgLcvuZF-r4",
+        "TITLE": "HERALDIC COUNCIL OF THE CITY OF MOSCOW",
+        "TEXT" : "Your application for the right to use the verbal symbol of the city of Moscow in the name of the Regional Public Organization of Physicians, Psychologists, Medical and Social Workers, “Moscow’s Balint Society” by the Heraldic Council of the City of Moscow (hereinafter referred to as the Council) was considered within the scope of the latter’s competence..."
       },
       "DOCUMENT_3": {
-        "URL": "https://drive.google.com/open?id=1R_4p1o5RCfGxRPG0zW_MtRACCVir-VT3",
-        "TITLE": "Устав Региональной общественной организации врачей, психологов, медицинских и социальных работников «Балинтовское Общество в городе Москве»",
-        "TEXT" : "1. ОБЩИЕ ПОЛОЖЕНИЯ 1.1. Региональная общественная организация врачей, психологов, медицинских и социальных работников «Балинтовское Общество в городе Москве» (далее именуемая Организация) является некоммерческой корпоративной организацией, созданной в форме общественной организации, добровольным объединением граждан, объединившихся в установленном законом порядке на основе общности их интересов для удовлетворения духовных или иных нематериальных потребностей, для представления и защиты общих интересов и достижения иных целей, указанных в настоящем уставе, осуществляющей свою деятельность на территории города Москвы....."
+        "URL": "https://drive.google.com/open?id=1sv1IHIBJplOgjJx_HYFAIpGh_VAKdNTt",
+        "TITLE": "Charter of the Regional Public Organization of Physicians, Psychologists, Medical and Social Workers Balint Society in the City of Moscow",
+        "TEXT" : "1. General Provisions 1.1. Regional  public  organization  of  physicians,  psychologists,  medical  and  social  workers “•Balint Society in the city of Moscow” (hereinafter referred to as the Organization) is a nonprofit corporate organization established in the form of a public organization, a voluntary association of citizens united in the order established by the legislation, who have united on the basis of the generality of their interests for satisfaction of spiritual and other nonmaterial values, specified in this charter , which operates on the territory of the city of Moscow..."
       }
     }
   },
@@ -254,7 +262,7 @@
     },
     "SOCIETIES_MEMBERS": {
       "TITLE": "SOCIETIES/MEMBERS",
-      "LEADERSHIP": "LEADERSHIP",
+      "LEADERSHIP": "REGISTER OF BG LEADERS",
       "PARTNERS": "Partners"
     },
     "LITERATURE": {
