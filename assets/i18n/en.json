@@ -101,8 +101,8 @@
     "23": "International Conference in Armenia, 2016",
     "24": "International Conference in Armenia, 2015",
     "25":"Balint groups at No1 N.A. Alekseev Psychiatric Clinical Hospital",
-    "26":"Helping Professionals Forum “Professional Communication: Experience and Innovations”, BG master class, BG leader A.A. Avagimyan, Novosibirsk"
-    
+    "26":"Helping Professionals Forum “Professional Communication: Experience and Innovations”, BG master class, BG leader A.A. Avagimyan, Novosibirsk",
+    "27":"Our Certificates"
   },
   "WHO_WAS_BALINT":{
     "TITLE": "About Michael Balint"
@@ -228,7 +228,9 @@
         "4": "The Moscow Balint Society is guided by the high professional and ethical standards of the Balint work, described in the Statute and Regulations on Balint Group leadership of the International Balint Federation (IBF).",
         "5": "The Moscow Balint Society goals are: professional training of BG leaders, dissemination of the Balint ideas and knowledge among the professional community at large, promotion of Balint work in accordance with the requirement of the International Balint Federation (IBF).",
         "6": "Russian translation of Dr. Heide Otten’s The Theory and Practice of Balint Group Work: Analyzing Professional Relationships"
-      }
+      },
+      "TITLE1":"Обучение на руководителя БГ и руководителя-супервизора БГ. Авагимян А.А.",
+      "OUR_CERTIFICATES":"Our Certificates"
     },
     "DOCUMENTS": {
       "DOCUMENT_1": {
