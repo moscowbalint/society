@@ -102,7 +102,9 @@
     "24": "International Conference in Armenia, 2015",
     "25":"Balint groups at No1 N.A. Alekseev Psychiatric Clinical Hospital",
     "26":"Helping Professionals Forum “Professional Communication: Experience and Innovations”, BG master class, BG leader A.A. Avagimyan, Novosibirsk",
-    "27":"Our Certificates"
+    "27":"Our Certificates",
+    "28":"International Balint Federation board meeting headed by IBF President Doctor Nease Reims, France, May 26, 2018",
+    "29":"BG leaders workshop, Reims, France, May 25-27, 2018"
   },
   "WHO_WAS_BALINT":{
     "TITLE": "About Michael Balint"
@@ -201,6 +203,7 @@
     }
   },
   "HOME": {
+    "NEWS":"<p>Moscow Balint Society was admitted to the International Balint Federation!</p><p>The decision was taken at the International Balint Federation board meeting on May 26, 2018 (Reims, France).</p>",
     "GENERAL": "General",
     "UPCOMMING_EVENTS_TITLE":"Upcoming Events",
     "GALLERY_LINKS_TITLE":"Archive",
